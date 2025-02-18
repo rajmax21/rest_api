@@ -1,0 +1,49 @@
+[
+    {
+        "name": "iphone",
+        "price": 154,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone10",
+        "price": 1534,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "watch_hyundai",
+        "price": 12545,
+        "company": "hyundai"
+    },
+    {
+        "name": "watch_samsung",
+        "price": 5654,
+        "company": "hyundai"
+    },
+    {
+        "name": "car_honda",
+        "price": 3423,
+        "company": "honda"
+    },
+    {
+        "name": "car_bmw",
+        "price": 5683,
+        "company": "bmw"
+    },
+    {
+        "name": "mobile_samsung",
+        "price": 9566,
+        "company": "samsung"
+    },
+    {
+        "name": "car_suzuki",
+        "price": 9455,
+        "company": "suzuki"
+    },
+    {
+        "name": "car_audi",
+        "price": 9453,
+        "company": "audi"
+    }
+]
