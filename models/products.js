@@ -24,7 +24,7 @@ const productSchema = new mongoose.Schema({
     company: {
         type: String,
         enum:{
-            values: ["apple","samsung","dell","mi","hyundai","audi","honda","bmw","suzuki"],
+            values: ["apple","samsung","dell","mi","hyundai","audi","honda","bmw","suzuki","kia"],
             message: `{value} is not supported`,
         }
     }

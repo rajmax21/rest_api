@@ -45,5 +45,10 @@
         "name": "car_audi",
         "price": 9453,
         "company": "audi"
+    },
+    {
+        "name": "car_kia",
+        "price": 9499,
+        "company": "kia"
     }
 ]
